@@ -26,6 +26,15 @@ La ventaja de Numpy frente a las listas predefinidas en Python es que el procesa
 Es una biblioteca de código abierto de Python que implementa una gran variedad de algoritmos de aprendizaje automático, preprocesamiento, validación cruzada y visualización.
 ![image](https://user-images.githubusercontent.com/26332532/194790213-ca0ec1e5-ded9-41c2-8764-b129e8ccf7e0.png)
 
+PARTE 1 Se  desarrollo un modelo a partir del conjunto de datos del conjunto de datos para determinar un matriz de confusión el que da como resultado falsos negativos de 7 y falsos positivos de 6 siendo el cual determina si un paciente tiene o no cancer
+
+PARTE 2 Se diseño modelo con un arbol de decision DecisionTreeClassifier para visualizar la columna de diagnostico 
+
+PARTE 3 Se diseño modelo de regresion y clasificacion teniendo con un valor real al analisis del estudio 
+
+PARTE 4 Se utiliza el metodo de KNeighborsClassifier para predecir y clasificar los datos del modelo teniendo una precision de 94
+
 Analizando el resultado de los datos para encontrar cuál es la solución entre una gama de variantes. 
 La principal tarea es  optimizar recursos y aumentar la eficiencia operativa. 
-Usa técnicas de simulación y optimización, logrando señalar cuál es el camino que conviene realmente elegir. 
+Usa técnicas de simulación y optimización, logrando señalar cuál es el modelo que conviene realmente elegir. 
+Es el modelo 1
